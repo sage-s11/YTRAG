@@ -1,0 +1,16 @@
+# Environments and Secrets
+.env
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Vector Stores and Indexes (Large/Generated files)
+data/vector_store/
+faiss_store/
+
+# Optional: Ignore large PDFs if you don't want them in version control
+# data/text_files/*.pdf
