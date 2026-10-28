@@ -10,6 +10,7 @@ __pycache__/
 
 # Vector Stores and Indexes (Large/Generated files)
 data/vector_store/
+data/text_files/
 faiss_store/
 
 # Optional: Ignore large PDFs if you don't want them in version control
